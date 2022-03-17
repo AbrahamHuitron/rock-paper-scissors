@@ -42,3 +42,4 @@ while player == False:
     computer = t[randint(0,2)]
 
 # Thank you for playing
+# Thanks again
